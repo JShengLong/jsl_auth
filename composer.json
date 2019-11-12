@@ -1,0 +1,22 @@
+{
+    "name": "JShengLong/jsl_auth",
+    "description": "auth package for thinkphp5",
+    "homepage": "https://github.com/JShengLong/jsl_auth",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "JShengLong",
+            "email": "2665442735@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        }
+    }
+}
